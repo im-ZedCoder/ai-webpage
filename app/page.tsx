@@ -651,7 +651,7 @@ export default function Home() {
             همین الان شروع کنید
           </h2>
           <p className="text-base sm:text-lg text-gray-200 mb-8 leading-relaxed">
-            برای شروع کار با هوش مصنوعی، با ابزار تغییر آی‌پی وارد سایت زیر شوید و با Gemini چت کنید:
+            برای شروع کار با هوش مصنوعی، با ابزار تغییر آی‌پی وارد سایت زیر شوید و با GapGPT چت کنید:
           </p>
 
           <motion.div
@@ -662,7 +662,7 @@ export default function Home() {
             className="flex justify-center"
           >
             <a
-              href="https://gemini.google.com/chat"
+              href="https://gapgpt.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 font-bold text-lg shadow-2xl hover:shadow-cyan-500/50 transition block"
