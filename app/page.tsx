@@ -667,7 +667,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="px-8 py-4 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 font-bold text-lg shadow-2xl hover:shadow-cyan-500/50 transition block"
             >
-              ورود به Gemini
+              ورود به GapGPT
             </a>
           </motion.div>
         </motion.div>
